@@ -4,7 +4,7 @@
 
 🔗 I am an active contributor to the W3C Web of Things standard focusing on the Thing Description and Protocol Bindings.
 
-- 🌱 I’m currently learning Agentic AI and RAG
+🌱 I’m currently learning Agentic AI and RAG
 
 
 <!--
