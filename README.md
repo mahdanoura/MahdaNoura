@@ -1,4 +1,9 @@
-### Hi there 👋
+👋 Hi, I'm Mahda, a Computer Science professional with a Ph.D. focused on enabling non-technical end users to create compositions with their Web of Things (WoT) devices in smart buildings. My expertise lies at the intersection of standards, Semantic Web technologies, Human-Centered Interaction and Applied AI.
+
+
+🔗 Public Contributions
+
+I am an active contributor to the W3C Web of Things standard focusing on the Thing Description and Protocol Bindings.
 
 
 <!--
